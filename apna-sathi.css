@@ -23,21 +23,27 @@
       }
       
       .target-file2{
+        gap: 20px;
         display: flex;
         justify-content: space-between;
         margin: 50px 100px
         
+        
       }
-      .box1{
+      .box1, .box2{
         width: 350px;
         height: 200px;
         padding: 20px;
         border: 1px solid #ffffff;
         box-sizing: border-box;
+
+       display: flex;
+       align-items: center;
       }
-      .box1 p {
+      .box1 p, .box2 p {
         text-align: justify;
         line-height: 1.6;
         margin: 0;
         
       }
+    
