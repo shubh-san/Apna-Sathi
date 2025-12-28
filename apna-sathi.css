@@ -25,6 +25,15 @@
         
       }
       .box1{
-        text-align: left;
-        margin-bottom: 10px;
+        width: 350px;
+        height: 200px;
+        padding: 20px;
+        border: 1px solid #ffffff;
+        box-sizing: border-box;
+      }
+      .box1 p {
+        text-align: justify;
+        line-height: 1.6;
+        margin: 0;
+        
       }
