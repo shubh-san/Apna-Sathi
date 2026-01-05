@@ -67,7 +67,7 @@
         color:  rgb(148,122,18);
       }
       .nevbar a{
-        margin-right: 200px;
+        margin-right: 180px;
         margin-left: 20px;
       }  
       
@@ -77,3 +77,11 @@
         border: none;
        
       }
+      #teacher{
+        height: 300px;
+        width: 300px;
+        margin-left: 10%;
+         border: 2px solid rgb(39, 37, 37);
+  box-shadow: 0 0 20px rgba(80, 127, 203, 0.25);
+      }
+      

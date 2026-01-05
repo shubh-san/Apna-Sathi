@@ -18,11 +18,7 @@
         text-align: center;
         color:  rgb(255, 255, 255);
       }
-     /* .main-title{
-     
-      color: rgb(148, 122, 18);
-      
-     } */
+    
       .section{
         display: flex;
         justify-content: space-between;
@@ -59,6 +55,8 @@
       height: auto;
       display: block;
       margin: 20px auto;
+     
+      
 
      }
      .line-center{
@@ -94,3 +92,4 @@
       padding: 10px;
      
     }
+    
