@@ -63,6 +63,7 @@
        border: 2px solid white;
       }
       #logo{
+        font-size: 22px;
         color:  rgb(148,122,18);
       }
       .nevbar a{
