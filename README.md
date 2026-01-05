@@ -44,7 +44,7 @@ Apna-Sathi/
 
 Download or clone the repository
 
-git clone https://github.com/your-username/apna-sathi.git
+git clone https://github.com/shubh-san/Apna-Sathi
 
 
 Open opening-page.html in any web browser
